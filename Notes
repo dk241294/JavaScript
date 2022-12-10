@@ -1,0 +1,22 @@
+Constant :
+1. when the value is known prior to execution and directly written into the code.
+2.use upper case for constants that are “hard-coded”.
+3. use small case for constant that is calculated at runtime
+
+DataType
+1.A value in JavaScript is always of a certain type.
+2.There are eight basic data types in JavaScript.
+
+a variable can at one moment be a string and then store a number:
+Programming languages that allow such things, such as JavaScript, are called “dynamically typed”, meaning that there exist data types, but variables are not bound to any of them.
+
+
+number type represents both integer and floating point number
+NaN represents a computational error.
+Infinity represents the mathematical Infinity ∞.
+BigInt value is created by appending n to the end of an integer
+
+
+The meaning of undefined is “value is not assigned”.
+
+

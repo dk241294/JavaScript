@@ -29,3 +29,9 @@ for (var i=100;i>=1;i--){
     sum2=sum2+i
 }
 console.log(sum)
+
+
+
+
+
+
